@@ -5,7 +5,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.lqw.cotroller.Result.Result;
 import com.lqw.domain.book;
 import com.lqw.service.bookService;
-import com.lqw.service.bookService2;
+//import com.lqw.service.bookService2;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
